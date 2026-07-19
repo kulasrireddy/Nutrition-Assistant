@@ -535,8 +535,8 @@ Thumbs.db
 
 | Name | Role |
 |---|---|
-| Polimera Girija | Team Lead and Backend Developer |
 | Kulasri Durga Deepika Bora | Frontend Developer |
+| Polimera Girija | Backend Developer |
 
 ---
 
