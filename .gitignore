@@ -1,0 +1,71 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment variables and secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+client/.env
+server/.env
+
+# Build files
+dist/
+build/
+client/dist/
+server/dist/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime files
+*.pid
+*.seed
+*.pid.lock
+
+# Uploaded user files
+uploads/
+server/uploads/
+
+# MongoDB local data
+data/
+db/
+mongodb-data/
+
+# Cache
+.cache/
+.vite/
+client/node_modules/.vite/
+.eslintcache
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# macOS files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+~$*.docx
+
+# Test coverage
+coverage/
+
+# Optional deployment configuration containing secrets
+.vercel/
+.netlify/
