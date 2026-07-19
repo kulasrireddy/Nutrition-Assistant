@@ -522,7 +522,7 @@ Thumbs.db
 <img width="1353" height="602" alt="Homepage" src="https://github.com/user-attachments/assets/f9fd14a1-c652-4f72-a63b-ee18552675b9" />
 <img width="1346" height="601" alt="bmipage" src="https://github.com/user-attachments/assets/a007388d-032a-452a-b406-c468980a4fdb" />
 <img width="1346" height="608" alt="loginpage" src="https://github.com/user-attachments/assets/35df0322-7cda-4eca-bdd4-7ce68ff79694" />
-<img width="1347" height="580" alt="ibm" src="https://github.com/user-attachments/assets/7a1e54ff-13d0-437c-9cfa-c8a40d83fc45" />
+
 
 
 
